@@ -13,7 +13,7 @@ The Tic Tac Toe Library is a Python library that provides the core functionality
 To install the Tic Tac Toe Library, simply use pip:
 
 ```bash
-pip install tictactoelib
+pip install tictactoe
 ```
 
 ## Usage
@@ -22,7 +22,7 @@ pip install tictactoelib
 import tictactoelib
 
 # Create a new game instance
-game = tictactoelib.TicTacToeGame()
+game = tictactoe.TicTacToeGame()
 
 # Make moves, check game status, and more
 ```
