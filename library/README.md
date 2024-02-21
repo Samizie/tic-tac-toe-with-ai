@@ -19,10 +19,10 @@ pip install tictactoe
 ## Usage
 
 ```python
-import tictactoelib
+import tictactoe
 
 # Create a new game instance
-game = tictactoe.TicTacToeGame()
+game = tictactoe.TicTacToe()
 
 # Make moves, check game status, and more
 ```
